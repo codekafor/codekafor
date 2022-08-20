@@ -9,7 +9,7 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge and I'
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Back end Engineer (Intern or Junior level).
+- 💼 Job interests: Python Back End Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing codekafor@gmail.com.
 
 ---
